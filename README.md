@@ -21,12 +21,12 @@
 
 #### 展示一段c代码
 
-···c
+```c
 #include<stdio.h>
 int main()
 {
 	return 0;
 }
-···
+```
 
 GitHub网站地址 [GitHub.com](https://github.com "点击跳转")</br>
