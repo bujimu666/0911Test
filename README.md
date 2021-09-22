@@ -27,6 +27,17 @@ int main()
 {
 	return 0;
 }
+`
+``
+#运行如下代码后。str[1]为
+
+```c
+string str[3] = {"苹果"，“西瓜”，“大蒜”};
+A.苹果
+B."苹果"
+C."西瓜"
+D."西瓜"
+
 ```
 
 GitHub网站地址 [GitHub.com](https://github.com "点击跳转")</br>
