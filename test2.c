@@ -2,6 +2,10 @@
 int main()
 {
 
-	printf("比好！");
+	printf("你好!\n");
+
+
+
+	//printf("比好！");
 	return 0;
 }
